@@ -6,7 +6,7 @@ int main() {
     int n;
     float soma = 0;
 
-    
+
     printf("Insira um valor inteiro positivo para n: ");
     scanf("%d", &n);
 
