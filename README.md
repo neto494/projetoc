@@ -1,6 +1,6 @@
-1) Faça um programa que leia um valor n, inteiro positivo, calcule e mostre a seguinte soma: s =1+ 1/2 + 1/3 + 1/4 +...+1/n.
+1) Faça um programa que leia um valor n, inteiro positivo, calcule e mostre a seguinte soma: s =1+ 1/2 + 1/3 + 1/4 +...+1/n.  
    
-#include <stdio.h>
+   #include <stdio.h>
 
 int main() {
     int n;
